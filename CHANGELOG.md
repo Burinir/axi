@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Add random user signal generation for llc-partition test. #315
 - Update `common_verification` from `v0.2.4` to `v0.2.5`.
 - Add selective channel bypassing to `axi_cut`.
+- Add optional single beat atop support to `axi_burst_splitter`.
 
 ## 0.39.6 - 2024-12-04
 ### Added
